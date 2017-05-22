@@ -1,0 +1,15 @@
+html {
+  body {
+    font-family: 'Open Sans', sans-serif;
+    background: orange;
+  }
+}
+
+.App {
+  text-align: center;
+  
+  &-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+}
