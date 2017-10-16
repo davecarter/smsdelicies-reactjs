@@ -1,9 +1,20 @@
-html body {
+body {
   font-family: 'Open Sans', sans-serif;
-  background: orange; }
+  background: #ffffff;
+  margin: 0;
+  padding: 0; }
 
 .App {
   text-align: center; }
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
     height: 80px; }
+
+h1, h2, h3 {
+  margin: 0; }
+
+.sms-Topbar {
+  background-color: #e32929;
+  height: 50px;
+  position: fixed;
+  width: 100%; }
