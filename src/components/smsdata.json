@@ -1,0 +1,64 @@
+{
+  "products":
+    {
+      "cafeteria": 
+        {
+          "cold":
+            [
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              },
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              }
+            ],
+          "hot":
+            [
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              },
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              }
+            ]
+        },
+      "tea": 
+        {
+          "cold":
+            [
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              },
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              }
+            ],
+          "hot":
+            [
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              },
+              {
+                "title": "Fra Puccino",
+                "description": "cold coffee and wip",
+                "price": "2,50€"
+              }
+            ]
+        }
+    }
+}
+    

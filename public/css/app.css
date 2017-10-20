@@ -16,5 +16,15 @@ h1, h2, h3 {
 .sms-Topbar {
   background-color: #e32929;
   height: 50px;
-  position: fixed;
   width: 100%; }
+  .sms-Topbar-langSelector {
+    float: left;
+    list-style-type: none; }
+    .sms-Topbar-langSelector-item {
+      display: inline;
+      padding: 5px; }
+
+.sms-Header {
+  background: url(../img/header.jpg) center top no-repeat;
+  background-size: cover;
+  height: 400px; }

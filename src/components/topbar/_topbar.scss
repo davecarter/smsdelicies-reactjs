@@ -1,6 +1,16 @@
 .sms-Topbar {
   background-color: $c-topbar-bgcolor;
   height: 50px;
-  position: fixed;
+  // position: fixed;
   width: 100%;
+
+  &-langSelector {
+    float: left;
+    list-style-type: none;
+
+    &-item {
+      display: inline;
+      padding: 5px;
+    }
+  }
 }
